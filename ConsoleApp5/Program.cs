@@ -7,7 +7,10 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdrav iz aplikacije od Brune!");
+<<<<<<< HEAD
             Console.WriteLine("12837192");
+=======
+>>>>>>> c307fea (Prvi commit zad 1.7)
         }
     }
 }
